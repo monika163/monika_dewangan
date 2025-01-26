@@ -3,7 +3,7 @@
 This is my personal portfolio website where on can know more about my work and achievements.
 
 ## Live Preview
-![live website screenshot](https://raw.githubusercontent.com/DineshRout779/my-portfolio/main/public/imgs/projects/ss.png)
+![live website screenshot](https://raw.githubusercontent.com/DineshRout779/my-portfolio/main/public/imgs/projects/)
 
 To view the live website click [here](https://monika-dewangan.onrender.com/)
 
