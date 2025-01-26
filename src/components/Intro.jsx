@@ -22,7 +22,7 @@ const Intro = () => {
             I'm a skilled software developer with 4 Year 8 Months years of experience in JavaScript, and expertise in frameworks like React, Node.js, Express.js and MongoDB. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
             </Bio>
             <HighlightedLink
-              href='https://drive.google.com/file/d/1yX6cPt-eVPPQRs2jtN_aHvaFCkOT4rDz/view?usp=sharing'
+              href='https://drive.google.com/file/d/1i1ckpPyqslGKLnK5NXxsUgHhkGKWfB3r/view?usp=sharing'
               target='_blank'
             >
               Download Resume <FiDownload />
